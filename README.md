@@ -2,7 +2,7 @@
 - fetch geolocation for user
 - fetch geolocation for a given website
 
-Libs used:
+#### Libs used
 - Material UI
 - Axios
 - Enzyme, Jest
